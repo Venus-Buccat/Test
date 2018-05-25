@@ -1,5 +1,5 @@
 test = 0
 if test == 0:
-	print("test 1")
+	print("build 123")
 else:
-	print("no test 0")
+	print("build")
