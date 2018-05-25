@@ -1,1 +1,1 @@
-this is a mster test
+this is a feature test
